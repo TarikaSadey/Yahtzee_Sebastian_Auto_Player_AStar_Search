@@ -1,5 +1,5 @@
 
-### PART 2 : THE GAME OF SEBASTIAN
+### THE GAME OF SEBASTIAN
 * The problem poses a one player game of luck and skill of rolling five dice and write an algorithm to obtain a maximum
   score within 13 chances provided we need to choose optimum re-rolls of specific dice using none or 2 more chances per 
   specific turn.
